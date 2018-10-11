@@ -9276,7 +9276,7 @@ var RoutingPaths = /** @class */ (function () {
 var environment = {
     production: true,
     // apisBaseUrl: 'https://fptfnr-be-sf.altran.it/api',
-    apisBaseUrl: 'http://fnrtool.northeurope.cloudapp.azure.com:5002/api',
+    apisBaseUrl: 'https://fnrtool.northeurope.cloudapp.azure.com:5002/api',
 };
 
 
